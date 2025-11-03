@@ -11,8 +11,7 @@
 #### `yappli/`
 **株式会社ヤプリ**でのインターンシッププロジェクト
 
-- **[feature_engineering_push_notice](./yappli/feature_engineering_push_notice/)**  
-  プッシュ通知の特徴量エンジニアリングとF2転換率分析プロジェクト  
+- **プッシュ通知の特徴量エンジニアリングとF2転換率分析プロジェクト** ([詳細](./yappli/))  
   プッシュ通知のテキストデータから特徴量を抽出し、ユーザーの2回目購入（F2転換）への影響を分析しました。
 
   - ブログ記事: [Yappliのデータサイエンス室でインターン生としてプッシュ通知を分析してみた話](https://tech.yappli.io/entry/ds-intern-push-analyze)
