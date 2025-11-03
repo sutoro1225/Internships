@@ -31,8 +31,8 @@ git commit -m "Initial commit: Push notification feature engineering project"
 # ブランチ名を main に設定（GitHubのデフォルト）
 git branch -M main
 
-# リモートリポジトリを追加（YOUR_USERNAME を自分のGitHubユーザー名に置き換え）
-git remote add origin https://github.com/YOUR_USERNAME/feature-engineering-push-notice.git
+# リモートリポジトリを追加
+git remote add origin https://github.com/sutoro1225/Internships.git
 
 # アップロード
 git push -u origin main
