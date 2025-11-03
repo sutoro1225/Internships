@@ -1,0 +1,35 @@
+# Internships
+
+インターンシップで実施したプロジェクトの成果物をまとめたリポジトリです。
+
+## 構成
+
+このリポジトリには、複数のインターンシップ先で実施したプロジェクトがフォルダごとに整理されています。
+
+### 📁 フォルダ一覧
+
+#### `yappli/`
+**株式会社ヤプリ**でのインターンシッププロジェクト
+
+- **[feature_engineering_push_notice](./yappli/feature_engineering_push_notice/)**  
+  プッシュ通知の特徴量エンジニアリングとF2転換率分析プロジェクト  
+  プッシュ通知のテキストデータから特徴量を抽出し、ユーザーの2回目購入（F2転換）への影響を分析しました。
+
+  - ブログ記事: [Yappliのデータサイエンス室でインターン生としてプッシュ通知を分析してみた話](https://tech.yappli.io/entry/ds-intern-push-analyze)
+
+---
+
+*各フォルダには詳細なREADME.mdが含まれています。詳細は各プロジェクトのフォルダを参照してください。*
+
+## 技術スタック（全体）
+
+- **データ分析**: Python (pandas, numpy, matplotlib, seaborn)
+- **データベース**: Google BigQuery
+- **SQL**: BigQuery SQL
+- **可視化**: Matplotlib, Seaborn
+- **バージョン管理**: Git / GitHub
+
+## ライセンス
+
+各プロジェクトはインターンシップの成果物として公開されています。
+
